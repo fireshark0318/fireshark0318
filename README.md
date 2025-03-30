@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cratus Technology company as a senior golang software engineer<br>
+🔭 I’m currently working on Intergy company as a senior golang software engineer<br>
 
 
 ## 🌐 Socials:
